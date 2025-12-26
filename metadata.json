@@ -1,0 +1,5 @@
+{
+  "name": "EduPlanner AI",
+  "description": "A comprehensive step-by-step school scheduling system that uses AI to generate optimal weekly calendars for teachers, groups, and rooms.",
+  "requestFramePermissions": []
+}
