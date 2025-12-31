@@ -1,6 +1,8 @@
 # EduPlanner
 
-An app made on Claude Artifact and Gemini App 
+An app made on Claude Artifact and Gemini App - Criar calendário e horario escolar com opção de configurar diferentes horarios de entrada/saida, turmas, salas fixas/rotativas/labs/makers, professores suas materias e horarios, por fim o mais importante: grade de aula com menos janelas possíveis, melhor aproveitamento e distribuição do quadro para o ano letivo.
+
+Está disponivel no Claude e Gemini, com exportação para JSON. Acesse via https://edu.esli.cafe (versão Claude)
 
 # Claude Artifact
 
